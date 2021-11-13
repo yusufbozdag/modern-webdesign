@@ -1,0 +1,29 @@
+@media(max-width:580px){
+    #header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    div.photo{
+        display: block;
+        text-align: center;
+    }
+    div#Contact{
+        text-align: center;
+        display: block;
+        margin: 50px 0;
+        padding-bottom: 20px;
+        float: left;
+    }
+    #section{
+        margin-bottom: 25%;
+    }
+    #market-info{
+        border: 1px solid #353535;
+        border-radius: 15%;
+        margin: 0;
+    }
+    #me{
+        margin: 0 auto 200px auto;
+    }
+}

@@ -1,0 +1,21 @@
+@media(max-width:768px) {
+    #section{
+        flex-wrap: wrap;
+    }
+    #cengiz{
+        margin-top: 25px;
+    }
+
+    ul li{
+        display: block;
+    }
+    #me{
+        width: 85%;
+    }
+    #me span i,p{
+        font-size: 3vh;
+        margin: 0 10%;
+    }
+    
+
+}
